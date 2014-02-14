@@ -1,0 +1,10 @@
+{
+    "name": "real_page_down", 
+    "license": "MPL 1.1/GPL 2.0/LGPL 2.1", 
+    "author": "", 
+    "version": "0.1", 
+    "fullName": "RealPageDown", 
+    "id": "jid1-TsvcbBvo6L2PBg", 
+    "description": "move servo motor by browser action",
+    "unpack":"true"
+}
